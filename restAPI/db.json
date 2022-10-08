@@ -1,0 +1,118 @@
+{
+    "products": [
+        {
+            "id": 1665156312577,
+            "productDetails": "New product added"
+        },
+        {
+            "id": 1665156315169,
+            "productDetails": "New product added"
+        },
+        {
+            "id": 1665156316210,
+            "productDetails": "New product added"
+        }
+    ],
+    "users": [
+        {
+            "id": 1665156304116,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665156306170,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665156308027,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157176242,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157180915,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157185477,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157707460,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157707958,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157708266,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157716636,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157718123,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157719113,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157720020,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157723792,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157724756,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157725669,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157726167,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157726545,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157726872,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157728207,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157733201,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157737358,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157741484,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157742484,
+            "userDetails": "New user added"
+        },
+        {
+            "id": 1665157743666,
+            "userDetails": "New user added"
+        }
+    ]
+}
