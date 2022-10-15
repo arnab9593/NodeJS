@@ -4,7 +4,7 @@ const Users = require("./user.model")
 const app = express.Router();
 
 //get api (routes)
-app.get("/", async (req, res) => {
+app.get("", async (req, res) => {
     let users = await Users.find();
     res.send(users)
 })
@@ -27,15 +27,17 @@ app.get("/:id", async (req, res) => {
 
 //post
 app.post("/", async (req, res) => {
+
     try {
         let user = await Users.create({
-            ...req.body,
+            ...req.body
         });
-        res.send(user)
-    } catch (e) {
-        res.status(404).send(e.message)
+        res.send(user);
+
+    } catch (err) {
+        res.status(404).send(err.message);
     }
-});
+})
 
 //delete
 app.delete("/:id", async (req, res) => {
