@@ -1,0 +1,1290 @@
+[
+    {
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Year": "2003",
+        "imdbID": "tt0167260",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Lion King",
+        "Year": "1994",
+        "imdbID": "tt0110357",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Kong",
+        "Year": "2005",
+        "imdbID": "tt0360717",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Lion King",
+        "Year": "2019",
+        "imdbID": "tt6105098",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Arthur: Legend of the Sword",
+        "Year": "2017",
+        "imdbID": "tt1972591",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Last King of Scotland",
+        "Year": "2006",
+        "imdbID": "tt0455590",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzZkNjNhN2QtMThmNC00YjE0LTg0ZmMtMmU5MWE4Y2NjN2RiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg"
+    },
+    {
+        "Title": "Godzilla: King of the Monsters",
+        "Year": "2019",
+        "imdbID": "tt3741700",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Arthur",
+        "Year": "2004",
+        "imdbID": "tt0349683",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTk1NjI0OV5BMl5BanBnXkFtZTcwNDQxOTUyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Scorpion King",
+        "Year": "2002",
+        "imdbID": "tt0277296",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxNTAwNTQ0M15BMl5BanBnXkFtZTYwMTQwMjM3._V1_SX300.jpg"
+    },
+    {
+        "Title": "The King",
+        "Year": "2019",
+        "imdbID": "tt7984766",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWZkNzNlMzMtMjM5ZS00MWYzLWFmMmUtMjE1ODM3NjBlODA5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Richard",
+        "Year": "2021",
+        "imdbID": "tt9620288",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTcyNmY4ZGEtYmE4Zi00ZDViLTlmYzMtMmQ4ZTM4OWNmZjQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The King of Comedy",
+        "Year": "1982",
+        "imdbID": "tt0085794",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTViNjlkYjgtMmE3Zi00ZGVkLTkyMjMtNzc3YzAwNzNiODQ1XkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Fisher King",
+        "Year": "1991",
+        "imdbID": "tt0101889",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmMDM1NTQtMzc0Yi00ODRiLWJjYjQtMGRmYWRlOTY2ODMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Kong",
+        "Year": "1933",
+        "imdbID": "tt0024216",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTY3YjYxZGQtMTM2YS00ZmYwLWFlM2QtOWFlMTU1NTAyZDQ2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The King of Queens",
+        "Year": "1998–2007",
+        "imdbID": "tt0165581",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTI4NzcwODk1M15BMl5BanBnXkFtZTYwNjkxNTc2._V1_SX300.jpg"
+    },
+    {
+        "Title": "Tiger King",
+        "Year": "2020–2021",
+        "imdbID": "tt11823076",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzI5MjQ2NzEtN2JmOC00MjE2LWI2NjItYTNjNTJjMjBkOWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Outlaw King",
+        "Year": "2018",
+        "imdbID": "tt6679794",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4MTU4YzEtODBiNC00NzA4LTg0NGItM2ZhZjZlNDFiNjJjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The King of Staten Island",
+        "Year": "2020",
+        "imdbID": "tt9686708",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzkxMzMzOTgtNmZhMS00MGM0LTk3MzUtMjE1MzI4MzU5ZjkzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Lion King 2: Simba's Pride",
+        "Year": "1998",
+        "imdbID": "tt0120131",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y3MTk2MDgtOTc1Yy00ZmFjLThlNTEtMDQ1Y2EzZmRjMzVjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of the Hill",
+        "Year": "1997–2010",
+        "imdbID": "tt0118375",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzI5ODk5MTMtMDE4OC00ZWM5LTg0MzYtNTJmZTY3OWY3NzEzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "In the Name of the King: A Dungeon Siege Tale",
+        "Year": "2007",
+        "imdbID": "tt0460780",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4ODI0ODA1Ml5BMl5BanBnXkFtZTcwNzMzMjU1MQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Man Who Would Be King",
+        "Year": "1975",
+        "imdbID": "tt0073341",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWQzYjBjZmQtZDFiOS00ZDQ1LWI4MDAtMDk1NGE1NDBhYjNhL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "A Hologram for the King",
+        "Year": "2016",
+        "imdbID": "tt2980210",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MzU1NTg4NV5BMl5BanBnXkFtZTgwNzQ5MjAzODE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Lion King 3: Hakuna Matata",
+        "Year": "2004",
+        "imdbID": "tt0318403",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGZiMDQ1YTQtMGVlOC00OTJiLWFkYzMtYjdiYmY0NWM5YzVjXkEyXkFqcGdeQXVyOTg4MDk3MTQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of New York",
+        "Year": "1990",
+        "imdbID": "tt0099939",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTE2NDcxNzE4N15BMl5BanBnXkFtZTgwMDc1NTk4NjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Anna and the King",
+        "Year": "1999",
+        "imdbID": "tt0166485",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWQzMmY1ZDktMjk0Yi00MGJmLWI0ZWQtYzQzNjU2MTk5ZjA5XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The King of Kong: A Fistful of Quarters",
+        "Year": "2007",
+        "imdbID": "tt0923752",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzIwMmIwNzEtODhhOS00ZjFjLWI1OGMtNjBiMDFkMTgzZTY2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Aladdin and the King of Thieves",
+        "Year": "1996",
+        "imdbID": "tt0115491",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODFkMjE5YzAtMDFkOC00ZDNhLTkwNmQtODk1Y2VhNThlNWJhXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Kong",
+        "Year": "1976",
+        "imdbID": "tt0074751",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYWNlNjlmYjktNjhiNy00YTQzLWEzYTUtYzc0MDdjYTlmNzUyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The King and I",
+        "Year": "1956",
+        "imdbID": "tt0049408",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNmJkYTViMzItZDM3YS00MDU2LTkzYWItMGJkYjVjMjU2YjNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of California",
+        "Year": "2007",
+        "imdbID": "tt0388182",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxMzIzMjY3N15BMl5BanBnXkFtZTcwMDMzMjM1MQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of Devil's Island",
+        "Year": "2010",
+        "imdbID": "tt1332134",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjFiNzBmM2MtNjA5Zi00ZTY3LTk4NGEtNDE3Y2I1N2U2MTkzXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Kid Who Would Be King",
+        "Year": "2019",
+        "imdbID": "tt6811018",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3OTA1OTU1Ml5BMl5BanBnXkFtZTgwNzgzNTM5NjM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Madness of King George",
+        "Year": "1994",
+        "imdbID": "tt0110428",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTNiNzk1YjMtODViOC00MjUyLWI3MmMtZjhkMjlkYTM0NjU2XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Message from the King",
+        "Year": "2016",
+        "imdbID": "tt1712192",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTJlNGVhZjUtYjJhZC00ZTRiLWI0YTgtNzdlNWJhZWEwNTAzXkEyXkFqcGdeQXVyMjgzMTA2NzY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Ralph",
+        "Year": "1991",
+        "imdbID": "tt0102216",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODEwYjk1OGUtNjlkMi00YTM1LTk2NGMtY2NiYzIyMTA0ZDg2XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Singh Is King",
+        "Year": "2008",
+        "imdbID": "tt1146325",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyNTM4Mzc5NV5BMl5BanBnXkFtZTcwNjgxMjMyMg@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Librarian: Return to King Solomon's Mines",
+        "Year": "2006",
+        "imdbID": "tt0455596",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzc4NzYyNF5BMl5BanBnXkFtZTcwNDYwMTc0MQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of Thieves",
+        "Year": "2018",
+        "imdbID": "tt5789976",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTBjMGY2NzktMTc0ZS00ZTViLWJlN2MtNTI4YjhmMjQ5NjhhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Woman King",
+        "Year": "2022",
+        "imdbID": "tt8093700",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2I4MDIwYWUtOWMxNC00ZTIzLWE3OGYtOWUyMmIwZGE2NjU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    },
+    {
+        "Title": "Thor: The Dark World",
+        "Year": "2013",
+        "imdbID": "tt1981115",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Thor: Love and Thunder",
+        "Year": "2022",
+        "imdbID": "tt10648342",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Team Thor",
+        "Year": "2016",
+        "imdbID": "tt6016776",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmEyODRkYmQtMjM3Yi00ZTkxLWI0NWEtOTJhMzBjNWY5MjJjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Thor: Tales of Asgard",
+        "Year": "2011",
+        "imdbID": "tt1667903",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxOTU4NzIxMV5BMl5BanBnXkFtZTcwNzE3NjAxNQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Team Thor: Part 2",
+        "Year": "2017",
+        "imdbID": "tt6599818",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODczODMwOTgtODhkOC00YjFiLWIzYmUtZTI3NThhZDE1NDhkXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Valhalla - The Legend of Thor",
+        "Year": "2019",
+        "imdbID": "tt8956872",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTA0OGZjODctYjg2ZS00YWQ1LWEyZjgtMDZkNmYyZDAwYzg0XkEyXkFqcGdeQXVyMzcwNjA5Mzg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Almighty Thor",
+        "Year": "2011",
+        "imdbID": "tt1792794",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwNjI5MTAzNF5BMl5BanBnXkFtZTcwNTcyOTIwNQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Thor: Finding Korg",
+        "Year": "2018",
+        "imdbID": "tt8513006",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjI0ZmZlYzktZWNhMC00YjYwLThhZDItOGE4MTg1ZDM1YTMxXkEyXkFqcGdeQXVyNDM2MzU3Njc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Thor",
+        "Year": "2011",
+        "imdbID": "tt0800369",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Thor: Ragnarok",
+        "Year": "2017",
+        "imdbID": "tt3501632",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Thor: Hammer of the Gods",
+        "Year": "2009",
+        "imdbID": "tt1260572",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTFkMDA5ODEtMTQ1NC00NGRhLWE3ZGQtOGE5ZGJkMGI1ZDI5XkEyXkFqcGdeQXVyMjI1NjEzNjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Thor: Legend of the Magical Hammer",
+        "Year": "2011",
+        "imdbID": "tt1241721",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxOTI1OTI0NF5BMl5BanBnXkFtZTgwMDQzMjcwMzE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "I Am Thor",
+        "Year": "2015",
+        "imdbID": "tt2450258",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDQxNTI4Mjg1MV5BMl5BanBnXkFtZTgwMDM2MTMyNzE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "A Viking Saga: Son of Thor",
+        "Year": "2008",
+        "imdbID": "tt0834967",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmRiZDc5OTMtMjQwZC00MzMwLTkyNmQtNjMxMDUzOWQzYWVmXkEyXkFqcGdeQXVyMjM4ODgxOQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Avenger",
+        "Year": "2012",
+        "imdbID": "tt2368537",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjBjZDkyZDMtZmFmOS00NTIyLTgwNmEtMGNhZmQ5N2M2NTIyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Alien Space Avenger",
+        "Year": "1989",
+        "imdbID": "tt0101296",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDQwMTdmMTUtNjFhYi00Mzc2LThmMDktMjI1MzRhMDUzNGUwXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Mask of the Avenger",
+        "Year": "1951",
+        "imdbID": "tt0043790",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ5NzFmYWItODMwYi00MjA1LTk5YzQtZGQwYzg2ZTBmNDdmXkEyXkFqcGdeQXVyNDcxNDkxMjA@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Invisible Avenger",
+        "Year": "1958",
+        "imdbID": "tt0051783",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyMDkzNWMtZjQ1Ny00YTc2LWFhZjEtNTA2NjNkMWFhM2MxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Zorro, the Avenger",
+        "Year": "1959",
+        "imdbID": "tt0052424",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjQxNGIzYWItOTdmYS00NDVmLTk1M2MtNDc2OTQxNWZiN2EyXkEyXkFqcGdeQXVyODI1OTk4MTQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Lady Avenger",
+        "Year": "1988",
+        "imdbID": "tt0097703",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTkyNjM4MDQ4Ml5BMl5BanBnXkFtZTcwNDE0ODc0MQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Spider-Man: The Lost Avenger",
+        "Year": "2015",
+        "imdbID": "tt5206544",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTZmOWRiMmEtNTRkMS00ZTljLWIxZDMtMDEyMmU1YTc1NGRmXkEyXkFqcGdeQXVyMjI5MjU5OTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Double-D Avenger",
+        "Year": "2001",
+        "imdbID": "tt0295216",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NzQ4MjQ2NV5BMl5BanBnXkFtZTcwNDMwMzMyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Avenger of the Seven Seas",
+        "Year": "1962",
+        "imdbID": "tt0054932",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYWI1ZDc0ZjktOWYxMi00YjA4LWE0NjYtMzUzN2I5MWNkNGM0L2ltYWdlXkEyXkFqcGdeQXVyNjUzNzQ4NDQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Hercules the Avenger",
+        "Year": "1965",
+        "imdbID": "tt0275668",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWRkYzI0NDMtMDQ3YS00YTI3LTljZDUtZWExM2EzMmMwNmUyXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Solomon's Mines",
+        "Year": "1985",
+        "imdbID": "tt0089421",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjk3ZGYyZmUtYTQ3ZC00NDBjLWI5NTctNDY0OTFkMDYzNjlmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Scorpion King 2: Rise of a Warrior",
+        "Year": "2008",
+        "imdbID": "tt1104123",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTFmOWJjODYtMDkwZC00MDZjLWExY2UtMjI2M2I1NDIzZjdiXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My King",
+        "Year": "2015",
+        "imdbID": "tt3478962",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzOTI2NzQ1Ml5BMl5BanBnXkFtZTgwNjI0NjI4OTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Berserk: The Golden Age Arc I - The Egg of the King",
+        "Year": "2012",
+        "imdbID": "tt2210479",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzA0ZGYxYzAtMmJlOC00OTFkLThhNmItYTdlMTdkNDY2NzQ4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of the Doormen",
+        "Year": "1976",
+        "imdbID": "tt0252591",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDhjNjQxNmUtNjk0Ny00OWRhLTk4MjQtZTQ3M2M1YzEwNTQ2XkEyXkFqcGdeQXVyMjQ2OTI2MzU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Possession of Michael King",
+        "Year": "2014",
+        "imdbID": "tt2282016",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTUzMzUxNzU4OF5BMl5BanBnXkFtZTgwNzUyMTcxMjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Joseph: King of Dreams",
+        "Year": "2000",
+        "imdbID": "tt0264734",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWEzMzg4M2EtYjhmMS00NGYzLWJiZTgtNTg3MGMzOTIxMDAxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The King: Eternal Monarch",
+        "Year": "2020",
+        "imdbID": "tt11228748",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDk2MDAyNmYtY2VlNS00N2EzLWE4ZDEtMmI0N2ViYzk4ODU4XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Polka King",
+        "Year": "2017",
+        "imdbID": "tt5539052",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3MTQyNDEyN15BMl5BanBnXkFtZTgwMjE3NjgzNDM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Kong vs. Godzilla",
+        "Year": "1963",
+        "imdbID": "tt0056142",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGExNmFhMDItZDBiZC00MWUyLWEwYjEtYTgyYzIzNTQyZTYwXkEyXkFqcGdeQXVyMTIyNjQ1OTMy._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Nine Lives of Chloe King",
+        "Year": "2011",
+        "imdbID": "tt0499400",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE2NjA2NF5BMl5BanBnXkFtZTcwOTkwOTM4NQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Cobra",
+        "Year": "2016",
+        "imdbID": "tt5129682",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1Njk2NzMxOF5BMl5BanBnXkFtZTgwMzY4ODUxMDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Black Is King",
+        "Year": "2020",
+        "imdbID": "tt12607910",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYWNkOWU1MDUtNzMzMy00NTAwLWExZTAtZjJlZjg0YWNiZjE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of the Hill",
+        "Year": "1993",
+        "imdbID": "tt0107322",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTIzOWU5NjItN2UwMi00Mzg5LWEzZTctNmU5NzgwZDY5YzRjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "A King in New York",
+        "Year": "1957",
+        "imdbID": "tt0050598",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWIzMWY4ZDgtNjFhNi00YmM4LThjODEtYWE0MWE4MTEzOTVkXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of Kings",
+        "Year": "1961",
+        "imdbID": "tt0055047",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzNkYmEyOGItNWZiOS00NzMxLWFhNjktMzhhYWZlMTAyMDUyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Marvel One-Shot: All Hail the King",
+        "Year": "2014",
+        "imdbID": "tt3438640",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGFkMTZkMDQtNzM4Yy00YWEwLTkzOWEtZTMyNDRlNmJhYWJhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Scorpion King 3: Battle for Redemption",
+        "Year": "2012",
+        "imdbID": "tt1781896",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3MzU2ODIwOV5BMl5BanBnXkFtZTcwOTA1ODIyNw@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Godzilla: King of the Monsters!",
+        "Year": "1956",
+        "imdbID": "tt0197521",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4YjkyN2QtNGRmZC00ZmFkLTllNmYtMGIwNTUwYWMwZWE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Letter for the King",
+        "Year": "2020",
+        "imdbID": "tt8741648",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTE3ZDcxODktMmMyNy00NmFjLThhMGQtZDgyNmQ4YmJmYjAwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The King",
+        "Year": "2005",
+        "imdbID": "tt0396688",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2MTE0MDIzMF5BMl5BanBnXkFtZTcwMzMwMDgzMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "One Night with the King",
+        "Year": "2006",
+        "imdbID": "tt0430431",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NzQwNjcxOV5BMl5BanBnXkFtZTcwNDM0MDczMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Hasan Minhaj: Homecoming King",
+        "Year": "2017",
+        "imdbID": "tt6900644",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWU2NTFjYTAtNDVkOC00YjJiLTg0NWMtODVmYzYwYjBiMmI3XkEyXkFqcGdeQXVyMjYwMTkwNDc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Last King",
+        "Year": "2016",
+        "imdbID": "tt4738360",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0MzE1MjE0M15BMl5BanBnXkFtZTgwMDc3OTYwOTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King of Comedy",
+        "Year": "1999",
+        "imdbID": "tt0188766",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjg4NWNjYWItZTQzOS00MzE2LWE4MjEtOTU1NjIxNTBjMDY3XkEyXkFqcGdeQXVyOTMzMDk1NTY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Life of a King",
+        "Year": "2013",
+        "imdbID": "tt2708254",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2MzgzMDM1OV5BMl5BanBnXkFtZTgwMTM5MDI4MDE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Godzilla vs. King Ghidorah",
+        "Year": "1991",
+        "imdbID": "tt0101962",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2NzY5NjMwNl5BMl5BanBnXkFtZTgwOTk1MjI4MzE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "A Kid in King Arthur's Court",
+        "Year": "1995",
+        "imdbID": "tt0113538",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODc0ZGUyNDYtNTE3MS00YzVhLWFmY2QtZGVlNjFmMjkyNjhlXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Solomon's Mines",
+        "Year": "1950",
+        "imdbID": "tt0042646",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjZlOWFjNzktMDQ3OC00ODQxLWEzZjMtN2E0Y2MwM2FkMzE0XkEyXkFqcGdeQXVyNTEwNDcxNDc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "King Kong Lives",
+        "Year": "1986",
+        "imdbID": "tt0091344",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzAxNTQyMzYtMTg5Zi00OTA1LWEwYjEtNjg3ZmJhOWZiMzk3XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Big Hero 6",
+        "Year": "2014",
+        "imdbID": "tt2245084",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Hero",
+        "Year": "2002",
+        "imdbID": "tt0299977",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Last Action Hero",
+        "Year": "1993",
+        "imdbID": "tt0107362",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjdhOGY1OTktYWJkZC00OGY5LWJhY2QtZmQzZDA2MzY5MmNmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My Hero Academia",
+        "Year": "2016–",
+        "imdbID": "tt5626028",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzBlMDU5NzgtYTBiMC00ODYwLTg2YzItNTczYjY1OTRmNGFhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Local Hero",
+        "Year": "1983",
+        "imdbID": "tt0085859",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODhiMmM3YzQtZjMwNy00YTdkLTkwOTItZDhjYWE1ZTVlNmExXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg"
+    },
+    {
+        "Title": "A Hero",
+        "Year": "2021",
+        "imdbID": "tt11777738",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmRlNzkyYzUtYzE5Yi00YmZkLTgyYjQtMmFjMjhmNDU1OTJiXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg"
+    },
+    {
+        "Title": "Hero",
+        "Year": "1992",
+        "imdbID": "tt0104412",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMDk0OWItZWQxYy00YzFkLWIwNDctYTYxODU5Zjk3MjAyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Bilal: A New Breed of Hero",
+        "Year": "2015",
+        "imdbID": "tt3576728",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNmEyY2IxYTktMzIxMS00MzNmLTlmMjEtZGE1YzZkMDVjYzdiXkEyXkFqcGdeQXVyMTYxMzQzNTU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Starship Troopers 2: Hero of the Federation",
+        "Year": "2004",
+        "imdbID": "tt0367093",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWNiNzRlOWMtNzY2Yi00M2MzLWE0MGEtYzM0NmZhODk3NjUyXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Nayak: The Real Hero",
+        "Year": "2001",
+        "imdbID": "tt0291376",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGIxZGVlMzEtYjZlZS00NGRkLWEwMjUtNGEwOGUwY2ViZTA2XkEyXkFqcGdeQXVyNjY1NTEzNjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Rising of the Shield Hero",
+        "Year": "2019–",
+        "imdbID": "tt9529546",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ1ZGVjODAtNWYzZS00ZmZiLWExYjEtNmM1MjI2OTk1YWY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Ten Inch Hero",
+        "Year": "2007",
+        "imdbID": "tt0829297",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTk2NTY5MF5BMl5BanBnXkFtZTcwMzQ5MTYzMg@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My Father the Hero",
+        "Year": "1994",
+        "imdbID": "tt0110612",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDgwYWEwY2EtNzQyNC00YmUxLWI1OTEtNGE2ZWQ3NjkwODNhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Show Me a Hero",
+        "Year": "2015",
+        "imdbID": "tt2492296",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTE3ZDQ5ZGUtYWQ1MS00MzU3LTgyZWItMDhjOGZmMDE5NWRjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My Hero Academia: Two Heroes",
+        "Year": "2018",
+        "imdbID": "tt7745068",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjViOWY3YTQtNTliOC00NzkwLTllMGMtMjNiZTU0MmZjZTgzXkEyXkFqcGdeQXVyODgzNTQ1NTU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Hero",
+        "Year": "2017",
+        "imdbID": "tt5655222",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2OTY1MjI4OV5BMl5BanBnXkFtZTgwNzYwMjk5MTI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Main Tera Hero",
+        "Year": "2014",
+        "imdbID": "tt2762334",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjBiYWU0ZmMtZDE0NC00ZTUxLWE3OTQtY2YyNjVjMTRlOGJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Everyone's Hero",
+        "Year": "2006",
+        "imdbID": "tt0430779",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3MTgwNzY5N15BMl5BanBnXkFtZTcwNDU0OTUzMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My Hero Academia: Heroes Rising",
+        "Year": "2019",
+        "imdbID": "tt11107074",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjMTA1NWMtZWRiYy00OTViLTk1ZmItZDk3NzM2NzA4ODBjXkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Dragon Ball Super: Super Hero",
+        "Year": "2022",
+        "imdbID": "tt14614892",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmFjNzkwOGYtMzBlYS00NmI4LWIwOTAtMDhhMjY4ZDkwNzI0XkEyXkFqcGdeQXVyODUyNjMyOTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Rising of the Shield Hero",
+        "Year": "2019–",
+        "imdbID": "tt9529546",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ1ZGVjODAtNWYzZS00ZmZiLWExYjEtNmM1MjI2OTk1YWY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Ten Inch Hero",
+        "Year": "2007",
+        "imdbID": "tt0829297",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTk2NTY5MF5BMl5BanBnXkFtZTcwMzQ5MTYzMg@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My Father the Hero",
+        "Year": "1994",
+        "imdbID": "tt0110612",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDgwYWEwY2EtNzQyNC00YmUxLWI1OTEtNGE2ZWQ3NjkwODNhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Show Me a Hero",
+        "Year": "2015",
+        "imdbID": "tt2492296",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTE3ZDQ5ZGUtYWQ1MS00MzU3LTgyZWItMDhjOGZmMDE5NWRjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My Hero Academia: Two Heroes",
+        "Year": "2018",
+        "imdbID": "tt7745068",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjViOWY3YTQtNTliOC00NzkwLTllMGMtMjNiZTU0MmZjZTgzXkEyXkFqcGdeQXVyODgzNTQ1NTU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Hero",
+        "Year": "2017",
+        "imdbID": "tt5655222",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2OTY1MjI4OV5BMl5BanBnXkFtZTgwNzYwMjk5MTI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Main Tera Hero",
+        "Year": "2014",
+        "imdbID": "tt2762334",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjBiYWU0ZmMtZDE0NC00ZTUxLWE3OTQtY2YyNjVjMTRlOGJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Everyone's Hero",
+        "Year": "2006",
+        "imdbID": "tt0430779",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3MTgwNzY5N15BMl5BanBnXkFtZTcwNDU0OTUzMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My Hero Academia: Heroes Rising",
+        "Year": "2019",
+        "imdbID": "tt11107074",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjMTA1NWMtZWRiYy00OTViLTk1ZmItZDk3NzM2NzA4ODBjXkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Dragon Ball Super: Super Hero",
+        "Year": "2022",
+        "imdbID": "tt14614892",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmFjNzkwOGYtMzBlYS00NmI4LWIwOTAtMDhhMjY4ZDkwNzI0XkEyXkFqcGdeQXVyODUyNjMyOTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "American Hero",
+        "Year": "2015",
+        "imdbID": "tt4733536",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNDE2NDU5Ml5BMl5BanBnXkFtZTgwMTE4MDczNzE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Hero and the Terror",
+        "Year": "1988",
+        "imdbID": "tt0095296",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmE3ZmU5NzYtZDM1Ni00MTY1LWJmMmUtZmNmZDdjYmM5OWYyXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Return of the Hero",
+        "Year": "2018",
+        "imdbID": "tt7064498",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2MxNTUwMzctMzlhYS00OWIwLTk2NDUtNGVjNmM5NzY1Y2I5XkEyXkFqcGdeQXVyNTM4MjgzNzc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Action Hero Biju",
+        "Year": "2016",
+        "imdbID": "tt5320514",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODU0ZmFlZWMtZWUyZi00ZmU2LTg4OGMtZjBmMDgzMGQyMDA2XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_SX300.jpg"
+    },
+    {
+        "Title": "My Hero Academia: World Heroes' Mission",
+        "Year": "2021",
+        "imdbID": "tt13544716",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDFhYTRjMWMtYWVmYS00MzZhLWIyOGQtNTdmODljMzRmZDMxXkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_SX300.jpg"
+    },
+    {
+        "Title": "Too Late the Hero",
+        "Year": "1970",
+        "imdbID": "tt0066471",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWNkNmQ2NGEtMDdlMS00NTY2LTk2NGYtYTQ3NWY5MTdkZGUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Tai Chi 2: The Hero Rises",
+        "Year": "2012",
+        "imdbID": "tt2296404",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTUwNzEyOV5BMl5BanBnXkFtZTcwNDY1NjY0OQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Guyver: Dark Hero",
+        "Year": "1994",
+        "imdbID": "tt0109965",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NzEyNTU2MF5BMl5BanBnXkFtZTcwNDIzOTAwMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Last Hero in China",
+        "Year": "1993",
+        "imdbID": "tt0108593",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjVjZDA2ZWEtNzVhYy00ZjFjLTk1MTEtZjBkMTg5ZDBlNzU0XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Hero No. 1",
+        "Year": "1997",
+        "imdbID": "tt0119285",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2Y4YmNjYTctMDY5OC00ZDI5LTkzZDUtYzM2Y2Y1NGVhNzVmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "A Self-Made Hero",
+        "Year": "1996",
+        "imdbID": "tt0118020",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGZlYjk4ZDAtYzIzYS00ZTAwLTlmNDYtM2IyZjZlNThkOGRjXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Jimmy Vestvood: Amerikan Hero",
+        "Year": "2016",
+        "imdbID": "tt3135556",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMzkyOTgzMl5BMl5BanBnXkFtZTgwMjQyMTAxMzE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "UnHung Hero",
+        "Year": "2013",
+        "imdbID": "tt2708946",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3Nzc3MTE3MV5BMl5BanBnXkFtZTgwNTQ2MDgyMDE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Hero",
+        "Year": "2015",
+        "imdbID": "tt4467202",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NzAyMTIyOF5BMl5BanBnXkFtZTgwMTE2MTY3NjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+        "Year": "2019",
+        "imdbID": "tt10974198",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjcwNTMyZDEtMTc3ZS00OGVkLTlhZDktZDUyZTI4MzEzMjNiXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_SX300.jpg"
+    },
+    {
+        "Title": "HK: Forbidden Super Hero",
+        "Year": "2013",
+        "imdbID": "tt2708764",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTA4NDAyMjAxNjVeQTJeQWpwZ15BbWU4MDY1MjkwMTMx._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Hero: Love Story of a Spy",
+        "Year": "2003",
+        "imdbID": "tt0347167",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNDAzNDE3M15BMl5BanBnXkFtZTgwNjY0NjE0NDE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Sgt. Stubby: An American Hero",
+        "Year": "2018",
+        "imdbID": "tt5314190",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NzEwNDczMl5BMl5BanBnXkFtZTgwMjY1MTY4NDM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Bad Hero",
+        "Year": "2010",
+        "imdbID": "tt1814642",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODk1MDdkZmUtNmQyNy00ZmM0LWI3MWYtYTYyNjA1MGUyOGE1XkEyXkFqcGdeQXVyNDU0OTYyNTY@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Paperback Hero",
+        "Year": "1999",
+        "imdbID": "tt0180037",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjY2MTJkZTktMWE1OC00OTczLWE0ZWEtODM2ZWI3Y2Q5ZjQwXkEyXkFqcGdeQXVyMDM3ODU0Nw@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Batman v Superman: Dawn of Justice",
+        "Year": "2016",
+        "imdbID": "tt2975590",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman Returns",
+        "Year": "2006",
+        "imdbID": "tt0348150",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman",
+        "Year": "1978",
+        "imdbID": "tt0078346",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman II",
+        "Year": "1980",
+        "imdbID": "tt0081573",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman III",
+        "Year": "1983",
+        "imdbID": "tt0086393",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Batman v Superman: Dawn of Justice - Ultimate Edition",
+        "Year": "2016",
+        "imdbID": "tt18689424",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2I4OTllM2MtMWVhNC00MjkzLWJlMDUtN2FhMGQ2ZGVjMjllXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman IV: The Quest for Peace",
+        "Year": "1987",
+        "imdbID": "tt0094074",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman & Lois",
+        "Year": "2021–",
+        "imdbID": "tt11192306",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGYyMmViMjgtZjViZi00NjkzLThjZGItMzZhYmZmOWZlMzdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman/Batman: Apocalypse",
+        "Year": "2010",
+        "imdbID": "tt1673430",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Lois & Clark: The New Adventures of Superman",
+        "Year": "1993–1997",
+        "imdbID": "tt0106057",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Batman Superman Movie: World's Finest",
+        "Year": "1997",
+        "imdbID": "tt0169590",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ3YWJhODMtYTdmNC00MmZiLThhOWYtM2UxZDBjNjRlY2EwXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman/Shazam!: The Return of Black Adam",
+        "Year": "2010",
+        "imdbID": "tt1701223",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTU5MjBiNjctMWFjNC00MTI5LTk2NTgtMWY5NjY2MGQ2MGE4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman: Man of Tomorrow",
+        "Year": "2020",
+        "imdbID": "tt11079116",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ2M2M2OTYtM2Y1ZC00Y2ExLTk0NTQtNDViYWU4YjhjN2I5XkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Death of Superman Lives: What Happened?",
+        "Year": "2015",
+        "imdbID": "tt2753778",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzUyNDg1NV5BMl5BanBnXkFtZTgwMTQ0OTg4NjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman: Brainiac Attacks",
+        "Year": "2006",
+        "imdbID": "tt0800226",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2Y3NjE1OWYtMGEwYS00MmY4LTg1ZWEtYmUyODg4NDVmZjI1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Adventures of Superman",
+        "Year": "1952–1958",
+        "imdbID": "tt0044231",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmYwMzY4OWMtZmYxMC00M2VmLWFlZDgtMWEyY2IzNDdjNWRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Death and Return of Superman",
+        "Year": "2019",
+        "imdbID": "tt11043546",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTk5YTEwYTQtNDc3Ny00OTcxLWE2YjctYWRmYmFiOGMyZTdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman",
+        "Year": "1941",
+        "imdbID": "tt0034247",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NDU0NjM1Ml5BMl5BanBnXkFtZTgwMzM0NDQ1MjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman: The Last Son of Krypton",
+        "Year": "1996",
+        "imdbID": "tt0177267",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDYyNTEwMF5BMl5BanBnXkFtZTcwOTY5MDgyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman and the Mole-Men",
+        "Year": "1951",
+        "imdbID": "tt0044091",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTI0MTVlNmUtYjg0MC00OWNkLTgzMjUtZDNiZTJkYzA5NzA2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "A Man Who Was Superman",
+        "Year": "2008",
+        "imdbID": "tt1119199",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzODYyMDk4NV5BMl5BanBnXkFtZTgwODIzNzE1MjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman 75",
+        "Year": "2013",
+        "imdbID": "tt3254454",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2NlZGEwNTktZGRjZi00ODRiLTgzNTgtNmM4MWRhYTU4ZjBiXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Batman/Superman Hour",
+        "Year": "1968–1969",
+        "imdbID": "tt0062544",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzg5YTIzNjktZDU1MS00YmVhLWJjY2ItNWE5NjQ3Nzg1OTAwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
+    },
+    {
+        "Title": "Sunshine Superman",
+        "Year": "2014",
+        "imdbID": "tt1322313",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTEwNDQyODk1OTReQTJeQWpwZ15BbWU4MDQwNzIzOTQx._V1_SX300.jpg"
+    },
+    {
+        "Title": "Look, Up in the Sky! The Amazing Story of Superman",
+        "Year": "2006",
+        "imdbID": "tt0499516",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTk5MDYyOV5BMl5BanBnXkFtZTgwNzI5OTkwMzE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Death and Return of Superman",
+        "Year": "2011",
+        "imdbID": "tt2117984",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTg4NWViMDAtOGRiOS00M2QyLWJjYmYtYTU0ZmRhZGU1MjllXkEyXkFqcGdeQXVyNDA5ODU0NDg@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman: Red Son",
+        "Year": "2009",
+        "imdbID": "tt3215888",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTY1M2U0ZTYtOGJiOC00ZjFlLWI1MTgtNzJmMTkyYzBmNmQzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman",
+        "Year": "1948",
+        "imdbID": "tt0040852",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjM5MjFlMzEtNzNkNC00OTZmLWExNTAtYWI2MTMyYjE3MTc1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman Returns",
+        "Year": "2006",
+        "imdbID": "tt0772202",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTAyZjQ0ZWMtNWFkMC00OTE5LWE3NGEtMGU3MWY5YmFjOTY2XkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman",
+        "Year": "1988",
+        "imdbID": "tt0213370",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5ODI4NzMtM2EzYS00ZGFlLThjMjgtODMyN2QwYjBkYTYwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
+    },
+    {
+        "Title": "The New Adventures of Superman",
+        "Year": "1966–1970",
+        "imdbID": "tt0060012",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTU4YzUwNGUtNjU3NC00ZTgxLTk1MmUtMDEzMDBmMjZlNTg5XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
+    },
+    {
+        "Title": "Atom Man vs. Superman",
+        "Year": "1950",
+        "imdbID": "tt0042211",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWVhM2Q5NWUtMTRhMy00MzhiLWI2Y2UtZDExNDZmMTM0MDhkXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Pretending I'm a Superman: The Tony Hawk Video Game Story",
+        "Year": "2020",
+        "imdbID": "tt11698280",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWIwNmNmZTctYTU4MS00MmE4LTkwNTUtMWZiYTNmODI5NWJhXkEyXkFqcGdeQXVyMzg3NDQzMA@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman: Requiem",
+        "Year": "2011",
+        "imdbID": "tt1667443",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDI1NTM2MF5BMl5BanBnXkFtZTcwMzkwNzk4Mw@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Argoman the Fantastic Superman",
+        "Year": "1967",
+        "imdbID": "tt0061500",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzY3MTgzMTYxNV5BMl5BanBnXkFtZTgwNTM1Mzk1MTE@._V1_SX300.jpg"
+    },
+    {
+        "Title": "The Superman/Aquaman Hour of Adventure",
+        "Year": "1967–1968",
+        "imdbID": "tt0231046",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q0NjRiYTAtNDJiZC00ODgyLWI4NDMtYzRmYjY3MjZjMmQ0XkEyXkFqcGdeQXVyNTQzMjAxMzA@._V1_SX300.jpg"
+    },
+    {
+        "Title": "St. Louis Superman",
+        "Year": "2019",
+        "imdbID": "tt10009148",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDc4YTQ4M2QtYmI2Yy00MTE1LWJlN2EtNjRmN2RlYzVlZDAyXkEyXkFqcGdeQXVyMTE0MjExNA@@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Superman",
+        "Year": "1999",
+        "imdbID": "tt0281244",
+        "Type": "game",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTA4YjRiYjItMDM2ZC00MGZlLWI1OTAtMWM5ZTNjMzM2NDc4XkEyXkFqcGdeQXVyMTgwOTE5NDk@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Stamp Day for Superman",
+        "Year": "1954",
+        "imdbID": "tt0046360",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjMzk5NzctMTM1ZC00M2VkLWE0MGItOTFjNWE1OGQ0NGM3XkEyXkFqcGdeQXVyMzY0NTAwOTk@._V1_SX300.jpg"
+    },
+    {
+        "Title": "It's a Bird... It's a Plane... It's Superman!",
+        "Year": "1975",
+        "imdbID": "tt0339210",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzMxMzIwY2QtYjZmNy00MWUzLTkyZTQtNjBkMGVmMWNjZTQ4XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_SX300.jpg"
+    }
+]
