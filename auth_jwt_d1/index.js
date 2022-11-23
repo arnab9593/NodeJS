@@ -24,7 +24,13 @@ app.post("/login", async (req, res) => {
     const user = await UserModel.findOne({ email, password });
     try {
         if (user) {
-            const token = jwt.sign({ id: user._id, name: user.name, age: user.age }, "passwdforServer");
+            const token = jwt.sign(
+                { id: user._id, name: user.name, age: user.age },
+                "passwdforServer",
+                {
+                    expiresIn: "7 days"
+                }
+            );
             return res.send({ message: "Login Sucessful", token });
         } else {
             return res.status(401).send("Incorrect credentials")
