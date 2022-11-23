@@ -28,10 +28,11 @@ app.post("/login", async (req, res) => {
                 { id: user._id, name: user.name, age: user.age },
                 "passwdforServer",
                 {
-                    expiresIn: "7 days"
+                    expiresIn: "1 days"
                 }
             );
-            return res.send({ message: "Login Sucessful", token });
+            const refreshToken = jwt.sign({ id: user._id }, "REFRESHTOKEN", { expiresIn: "7 days" })
+            return res.send({ message: "Login Sucessful", token, refreshToken });
         } else {
             return res.status(401).send("Incorrect credentials")
         }
@@ -55,9 +56,34 @@ app.get("/user/:id", async (req, res) => {
         }
 
     } catch (e) {
+        console.log(e.message);
         res.send("Invalid token")
     }
 });
+
+//refresh route
+app.post("/refresh", async (req, res) => {
+    const refreshToken = req.headers["authorization"];
+    if (!refreshToken) {
+        return res.status(401).send("unauthorized");
+    }
+    try {
+        const verification = jwt.verify(refreshToken, "REFRESHTOKEN");
+        console.log(verification);
+        if (verification) {
+            const userData = await UserModel.findOne({ _id: verification.id })
+            const newToken = jwt.sign(
+                { id: verification.id, name: verification.name, age: verification.age },
+                "passwdforServer",
+                { expiresIn: "5 min" }
+            );
+            return res.send({ token: newToken })
+        }
+
+    } catch (e) {
+        res.send(e.message)
+    }
+})
 
 app.get("/", (req, res) => res.send("Hello World"));
 
