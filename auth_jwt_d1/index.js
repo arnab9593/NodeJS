@@ -73,7 +73,7 @@ app.post("/refresh", async (req, res) => {
         if (verification) {
             const userData = await UserModel.findOne({ _id: verification.id })
             const newToken = jwt.sign(
-                { id: verification.id, name: verification.name, age: verification.age },
+                { id: userData.id, name: userData.name, age: userData.age },
                 "passwdforServer",
                 { expiresIn: "5 min" }
             );
