@@ -2,12 +2,26 @@ const express = require("express");
 const mongoose = require("mongoose");
 const UserModel = require("./models/user.model");
 const jwt = require("jsonwebtoken");
-const { argon2 } = require("argon2")
+const { argon2 } = require("argon2");
+const fs = require("fs/promises");
+const nodemailer = require("nodemailer");
 
 const app = express();
 app.use(express.json());
 
 const blacklist = [];
+
+const emailUsername = "freida.cassin@ethereal.email"
+const emailPassword = "HzcAZ9TY8KMeZkBsdN"
+
+const transport = nodemailer.createTransport({
+	host: 'smtp.ethereal.email',
+	port: 587,
+	auth: {
+		user: emailUsername,
+		pass: emailPassword
+	}
+});
 
 // created a middleware
 app.use((req, res, next) => {
@@ -58,6 +72,17 @@ app.post("/signup", async (req, res) => {
 	}
 	const user = new UserModel({ name, email, password, age });
 	await user.save();
+	const html = await fs.readFile("./mail.html", "utf-8")
+	transport.sendMail({
+		to: "arnabpal679@gmail.com",
+		from: "contactwitharnab@gmail.com",
+		subject: "Hello Arnab !",
+		// text: "Test email"
+		html,
+	}).then(() => {
+		console.log("sucess");
+	})
+
 	return res.status(201).send("student created successfully");
 
 });
