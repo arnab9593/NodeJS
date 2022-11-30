@@ -1,10 +1,23 @@
 
 import express from "express";
 import fetch from "node-fetch";
-const app = express();
+import dotenv from "dotenv";
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
 
-const clientID = "a40192645945edf19b58";
-const clientPasswd = "1a82a058548a10691c698ab219ecfb6f46a91462";
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const app = express();
+dotenv.config();
+
+
+// const clientID = process.env.CLIENTID;
+// const clientPasswd = process.env.CLIENTPASSWD;
+
+const clientID = "a40192645945edf19b58"
+const clientPasswd = "1a82a058548a10691c698ab219ecfb6f46a91462"
+
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
