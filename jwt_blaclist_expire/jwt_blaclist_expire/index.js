@@ -3,8 +3,10 @@ const mongoose = require("mongoose");
 const UserModel = require("./models/user.model");
 const jwt = require("jsonwebtoken");
 const { argon2 } = require("argon2");
-const fs = require("fs/promises");
 const nodemailer = require("nodemailer");
+const hbs = require("handlebars")
+const fs = require("fs");
+
 
 const app = express();
 app.use(express.json());
@@ -72,15 +74,16 @@ app.post("/signup", async (req, res) => {
 	}
 	const user = new UserModel({ name, email, password, age });
 	await user.save();
-	const html = await fs.readFile("./mail.html", "utf-8")
+	// const html = await fs.readFile("./mail.html", "utf-8");
+	const template = hbs.compile(fs.readFileSync("./mail.hbs", "utf-8"));
 	transport.sendMail({
-		to: "arnabpal679@gmail.com",
-		from: "contactwitharnab@gmail.com",
-		subject: "Hello Arnab !",
+		to: email,
+		from: "dummyemail@gmail.com",
+		subject: `Hello ${name} !`,
 		// text: "Test email"
-		html,
+		html: template({ user: name, license: age > 18 ? "You are eligible for license" : "You are not eligible for license" }),
 	}).then(() => {
-		console.log("sucess");
+		console.log("success");
 	})
 
 	return res.status(201).send("student created successfully");
