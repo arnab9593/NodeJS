@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    Hello world! this is socket.io
+    <form id="form">
+      <input id="inputText" type="text" autocomplete="off" />
+      <input type="submit" value="send" />
+    </form>
+    <div id="msgs"></div>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.5.4/socket.io.min.js"
+      integrity="sha512-HTENHrkQ/P0NGDFd5nk6ibVtCkcM7jhr2c7GyvXp5O+4X6O5cQO9AhqFzM+MdeBivsX7Hoys2J7pp2wdgMpCvw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+
+    <script>
+      const socket = io(); //io.emmit("connection") is happening
+      const form = document.getElementById("form");
+      const input = document.getElementById("inputText");
+      const msgs = document.getElementById("msgs");
+
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const message = input.value;
+        socket.emit("newmessage", message);
+        input.value = "";
+      });
+
+      socket.on("newtext", (msg) => {
+        console.log("new message", msg);
+        const div = document.createElement("div");
+        div.innerText = msg;
+        msgs.appendChild(div);
+      });
+
+      socket.on("newuser", (count) => {
+        // console.log("new message", msg);
+        const div = document.createElement("div");
+        div.innerText = `new user joined and total user ${count} `;
+        msgs.appendChild(div);
+      });
+
+      socket.on("history", (history) => {
+        for (const h of history) {
+          // console.log("new message", msg);
+          const div = document.createElement("div");
+          div.innerText = h;
+          msgs.appendChild(div);
+        }
+      });
+    </script>
+  </body>
+</html>
