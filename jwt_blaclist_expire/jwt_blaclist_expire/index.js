@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const UserModel = require("./models/user.model");
 const jwt = require("jsonwebtoken");
-const { argon2 } = require("argon2");
+const argon2 = require("argon2");
 const nodemailer = require("nodemailer");
 const hbs = require("handlebars")
 const fs = require("fs");
@@ -55,13 +55,13 @@ app.get("/", (req, res) => {
 app.post("/signup", async (req, res) => {
 	const { name, email, password, age } = req.body;
 	const token = req.headers["authorization"];
-	// const hash = await argon2.hash(password)
+	const hash = await argon2.hash(password)
 	try {
 		if (token) {
 			const decode = jwt.decode(token);
 			if (decode) {
 				if (decode.role === "admin") {
-					const user = new UserModel({ name, email, password, age, role: "instructor" });
+					const user = new UserModel({ name, email, hash, age, role: "instructor" });
 					await user.save();
 					return res.status(201).send("instructor created successfully");
 				} else {
@@ -72,7 +72,7 @@ app.post("/signup", async (req, res) => {
 	} catch (e) {
 		console.log("you are not admin to create instructor");
 	}
-	const user = new UserModel({ name, email, password, age });
+	const user = new UserModel({ name, email, password: hash, age });
 	await user.save();
 	// const html = await fs.readFile("./mail.html", "utf-8");
 	const template = hbs.compile(fs.readFileSync("./mail.hbs", "utf-8"));
@@ -129,7 +129,7 @@ app.post("/login", async (req, res) => {
 });
 
 
-//verification privatem route
+//verification private route
 app.get("/user/:id", async (req, res) => {
 	const { id } = req.params;
 	const token = req.headers["authorization"];
@@ -156,7 +156,7 @@ app.get("/user/:id", async (req, res) => {
 	}
 });
 
-// AGAIN A PRIVATE ROUTE
+//refresh
 app.post("/refresh", async (req, res) => {
 	const refreshToken = req.headers["authorization"];
 
