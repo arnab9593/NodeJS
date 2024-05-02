@@ -1,5 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const shortURL = require('./schema')
 require('dotenv').config();
 const app = express();
 
@@ -8,8 +9,11 @@ app.use(express.json());
 
 const port = 3000;
 const connection_string = process.env.URL
-app.get("/", (res, req) => {
-    req.send("this is the home")
+
+app.get("/", async (req, res) => {
+    const urls = await shortURL.find()
+    res.send(urls)
+
 })
 
 const connectDB = async () => {
@@ -22,6 +26,12 @@ const connectDB = async () => {
     }
 }
 
+// "https://github.com/arnab9593/NodeJS/tree/master/url-shortner"
+
+app.post('/shortTheUrl', async (res, req) => {
+    console.log(req.body)
+    //await shortURL.create({ full: req.body.fullUrl })
+})
 
 connectDB()
 app.listen(port, () => {
