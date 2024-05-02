@@ -1,39 +1,41 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const shortURL = require('./schema')
+const shortURL = require('./schema');
 require('dotenv').config();
 const app = express();
 
-// Middleware for parsing JSON requests
 app.use(express.json());
 
-const port = 3000;
-const connection_string = process.env.URL
+const port = 8080;
+const connection_string = process.env.URL;
 
 app.get("/", async (req, res) => {
-    const urls = await shortURL.find()
-    res.send(urls)
-
-})
+    const urls = await shortURL.find();
+    if (urls) {
+        res.send(urls);
+    } else {
+        console.log("first")
+        res.send("Hello")
+    }
+});
 
 const connectDB = async () => {
     try {
-        await mongoose.connect(connection_string)
-        console.log("db connected")
+        await mongoose.connect(connection_string);
+        console.log("db connected");
     } catch (error) {
-        console.log(error)
-        process.exit(1)
+        console.log(error);
+        process.exit(1);
     }
-}
+};
 
-// "https://github.com/arnab9593/NodeJS/tree/master/url-shortner"
+app.post('/shortTheUrl', async (req, res) => {
+    console.log(req.body.fullUrl);
+    await shortURL.create({ originalUrl: req.body.fullUrl });
+    res.send('URL shortened successfully');
+});
 
-app.post('/shortTheUrl', async (res, req) => {
-    console.log(req.body)
-    //await shortURL.create({ full: req.body.fullUrl })
-})
-
-connectDB()
+connectDB();
 app.listen(port, () => {
-    console.log(`http://localhost:3000`);
+    console.log(`Server running on http://localhost:${port}`);
 });
