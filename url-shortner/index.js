@@ -30,9 +30,15 @@ const connectDB = async () => {
 };
 
 app.post('/shortTheUrl', async (req, res) => {
-    console.log(req.body.fullUrl);
-    await shortURL.create({ originalUrl: req.body.fullUrl });
-    res.send('URL shortened successfully');
+    if (!(req.body.fullUrl).includes("https://") || !(req.body.fullUrl).includes("http://")) {
+        res.send("put valid url")
+    } else {
+        let job = await shortURL.create({ originalUrl: req.body.fullUrl });
+        if (job._id) {
+            console.log(job.shortUrl)
+        }
+        res.send('URL shortened successfully');
+    }
 });
 
 connectDB();
